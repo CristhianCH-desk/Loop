@@ -45,7 +45,7 @@ const products = [
     name: "Disfraz de Vampiro",
     brand: "Pronovias",
     category: "disfraces",
-    price: "S/ 249",
+    price: "S/ 20",
     tag: "Premium",
     sizes: ["XS", "S", "M", "L", "XL"],
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpiI42sMf4YwsAIjIGHQVG2W3nxEOXa8ZmghEjCD3tA&s=10",
