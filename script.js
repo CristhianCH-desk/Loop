@@ -42,13 +42,13 @@ const products = [
   },
   {
     id: 5,
-    name: "Vestido de Novia",
+    name: "Disfraz de Vampiro",
     brand: "Pronovias",
-    category: "novias",
+    category: "disfraces",
     price: "S/ 249",
     tag: "Premium",
     sizes: ["XS", "S", "M", "L", "XL"],
-    img: "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpiI42sMf4YwsAIjIGHQVG2W3nxEOXa8ZmghEjCD3tA&s=10",
   },
   {
     id: 6,
