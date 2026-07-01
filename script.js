@@ -43,7 +43,7 @@ const products = [
   {
     id: 5,
     name: "Disfraz de Vampiro",
-    brand: "Pronovias",
+    brand: "LOOP Originals",
     category: "disfraces",
     price: "S/ 20",
     tag: "¡Nuevo!",
